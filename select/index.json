@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "オンリーワンとはいえ",
+  "base_artist": "whaledontsleep",
+  "createdAt": "2025-12-09T12:09:39.471114Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オンリーワンとはいえ",
+      "artist": "くじら",
+      "has_synced": false,
+      "path": "select/pl_01_オンリーワンとはいえ_くじら.txt"
+    }
+  ]
+}
